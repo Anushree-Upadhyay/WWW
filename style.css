@@ -1,0 +1,20 @@
+h3 {
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#a {
+    text-align: left;
+    margin-left: 25px;
+}
+
+#img {
+    margin-left: 25px;
+    border-radius: 5px;
+    box-shadow: 5px  10px  white;
+}
+
+body {
+    display: inline;
+}
